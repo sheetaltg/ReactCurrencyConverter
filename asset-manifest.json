@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ReactCurrencyConverter/static/js/main.d4dffb79.js",
+    "main.js": "/ReactCurrencyConverter/static/js/main.ff516186.js",
     "index.html": "/ReactCurrencyConverter/index.html",
-    "main.d4dffb79.js.map": "/ReactCurrencyConverter/static/js/main.d4dffb79.js.map"
+    "main.ff516186.js.map": "/ReactCurrencyConverter/static/js/main.ff516186.js.map"
   },
   "entrypoints": [
-    "static/js/main.d4dffb79.js"
+    "static/js/main.ff516186.js"
   ]
 }
