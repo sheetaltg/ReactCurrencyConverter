@@ -40,7 +40,7 @@ const Converter = () => {
     const initial = date.split(/\//);
     const date1 = ( [ initial[1], initial[0], initial[2] ].join('/')); 
 
-    console.log("date1", date1);
+    
 
     return (       
         <Box width={{  base: "400px", sm: "450px", md: "500px", lg: "520px", xl:"570px" }} m='1' mt='0'> 
