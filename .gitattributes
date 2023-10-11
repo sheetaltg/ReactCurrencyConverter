@@ -2,3 +2,9 @@
 *.js linguist-vendored=false
 
 *.* linguist-language=ReactJS
+
+static/* linguist-vendored
+
+docs/* linguist-documentation
+
+*.js linguist-language=ReactJS
